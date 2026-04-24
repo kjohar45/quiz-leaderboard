@@ -1,6 +1,6 @@
 # Quiz Leaderboard – Backend Integration Task
 
-so this is my solution for the quiz backend task. took me a while but finally got it working.
+So this is my solution for the quiz backend task. took me a while but finally got it working.
 the problem: an api gives scores for different rounds and participants, but sometimes the same data comes twice. if you just add everything up, your total will be wrong. so you have to filter out duplicates.
 
 ## how it works
